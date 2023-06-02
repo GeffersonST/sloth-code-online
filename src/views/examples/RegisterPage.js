@@ -115,14 +115,6 @@ export default function RegisterPage() {
                         <Button
                           className="btn-icon btn-simple btn-round btn-neutral"
                           color="default"
-                          href="https://www.instagram.com/geffersonsevero/"
-                        target="_blank"
-                        >
-                          <i className="fab fa-instagram" />
-                        </Button>
-                        <Button
-                          className="btn-icon btn-simple btn-round btn-neutral"
-                          color="default"
                           href="https://www.linkedin.com/in/gefferson-severo-da-trindade-ramos-510010115/"
                         target="_blank"
                         >
