@@ -18,8 +18,8 @@ O App é composto por 3 seções diferentes:
 
 
 - **Perfis:** Nessa seção você encontra os dados como nome do profissional e contato como também links para seus respectivos conteúdos;
-- **Plataformas** Nessa seção você encontra os dados das plataformas de ensino e links para seus respectivos conteúdos;
-- **Sobre** Exibe dados sobre o criador;
+- **Plataformas:** Nessa seção você encontra os dados das plataformas de ensino e links para seus respectivos conteúdos;
+- **Sobre:** Exibe dados sobre o criador;
 
 
 ---
