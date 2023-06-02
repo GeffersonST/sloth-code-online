@@ -17,9 +17,9 @@
 O App é composto por 3 seções diferentes:
 
 
-- **Cadastro:** Nessa seção você insere os dados como nome da entidade e contato;
-- **Mapa:** Aqui você seleciona o endereço do ponto de coleta;
-- **Ítens de Coleta:** Exibe os ítens a serem coletados;
+- **Perfis:** Nessa seção você encontra os dados como nome do profissional e contato como também links para seus respectivos conteúdos;
+- **Plataformas** Nessa seção você encontra os dados das plataformas de ensino e links para seus respectivos conteúdos;
+- **Sobre** Exibe dados sobre o criador;
 
 
 ---
@@ -51,8 +51,5 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
     </td>
   </tr>
 </table>
-<a href="https://www.youtube.com/c/RocketSeat">
 
-Contribution: :rocket: Rocketseat
-  </a>
 
